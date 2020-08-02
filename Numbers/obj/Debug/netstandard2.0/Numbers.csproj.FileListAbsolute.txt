@@ -1,0 +1,9 @@
+C:\Users\chiso\Downloads\_NET_Core_unit_testing_code_coverage\Numbers\bin\Debug\netstandard2.0\Numbers.deps.json
+C:\Users\chiso\Downloads\_NET_Core_unit_testing_code_coverage\Numbers\bin\Debug\netstandard2.0\Numbers.dll
+C:\Users\chiso\Downloads\_NET_Core_unit_testing_code_coverage\Numbers\bin\Debug\netstandard2.0\Numbers.pdb
+C:\Users\chiso\Downloads\_NET_Core_unit_testing_code_coverage\Numbers\obj\Debug\netstandard2.0\Numbers.csprojAssemblyReference.cache
+C:\Users\chiso\Downloads\_NET_Core_unit_testing_code_coverage\Numbers\obj\Debug\netstandard2.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\chiso\Downloads\_NET_Core_unit_testing_code_coverage\Numbers\obj\Debug\netstandard2.0\Numbers.AssemblyInfo.cs
+C:\Users\chiso\Downloads\_NET_Core_unit_testing_code_coverage\Numbers\obj\Debug\netstandard2.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\chiso\Downloads\_NET_Core_unit_testing_code_coverage\Numbers\obj\Debug\netstandard2.0\Numbers.dll
+C:\Users\chiso\Downloads\_NET_Core_unit_testing_code_coverage\Numbers\obj\Debug\netstandard2.0\Numbers.pdb
